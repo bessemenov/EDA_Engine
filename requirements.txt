@@ -1,0 +1,10 @@
+streamlit>=1.37
+pandas>=2.2
+numpy>=1.26
+plotly>=5.22
+matplotlib>=3.8
+scipy>=1.13
+statsmodels>=0.14
+scikit-posthocs>=0.9.0
+pingouin>=0.5.4
+
